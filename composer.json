@@ -1,0 +1,7 @@
+{
+    "require": {
+        "patrickschur/stanford-nlp-tagger": "^0.2.0",
+        "web64/php-nlp-client": "^0.40.3",
+        "yooper/php-text-analysis": "^1.5"
+    }
+}
